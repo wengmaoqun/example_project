@@ -16,6 +16,7 @@ import VueAwesomeSwiper from 'vue-awesome-swiper'
 import 'swiper/css/swiper.css'
 
 // 修改提交信息
+// origin远程 HEAD本地当前提交 远程落后于本地
 Vue.prototype.$axios = axios
 import axios from 'axios'
 // 使用轮播图插件
