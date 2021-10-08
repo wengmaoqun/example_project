@@ -15,6 +15,7 @@ import store from './store'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import 'swiper/css/swiper.css'
 
+// 修改提交信息
 Vue.prototype.$axios = axios
 import axios from 'axios'
 // 使用轮播图插件
