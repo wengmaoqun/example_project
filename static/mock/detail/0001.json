@@ -1,0 +1,54 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "文和友臭豆腐博物馆(AAAA景区)",
+    "bannerImg": "https://img1.qunarzz.com/p/tts1/1804/34/07e3342e8fd7bd02.jpg_r_640x420x95_5785b176.jpg",
+    "gallaryImgs": [
+      "https://img1.qunarzz.com/p/tts6/1511/e8/f7fedc383e9801f7.jpg_r_640x420x95_0b54455d.jpg",
+      "https://img1.qunarzz.com/p/tts1/1804/34/07e3342e8fd7bd02.jpg_r_640x420x95_5785b176.jpg"
+    ],
+    "categoryList": [
+      {
+        "title": "成人票",
+        "children": [
+          {
+            "title": "成人三馆联票",
+            "children": [
+              {
+                "title": "成人三馆联票 - 某一连锁店销售"
+              }
+            ]
+          },
+          {
+            "title": "成人五馆联票"
+          }
+        ]
+      },
+      {
+        "title": "学生票"
+      },
+      {
+        "title": "儿童票"
+      },
+      {
+        "title": "特惠票"
+      }
+    ],
+    "cardInfo": [
+      {
+        "address": "1111",
+        "comment": "1788",
+        "desc": "超赞",
+        "score": "4.7",
+        "walkThrough": "4条攻略"
+      },
+      {
+        "address": "1111",
+        "comment": "1788",
+        "desc": "超赞",
+        "score": "4.7",
+        "walkThrough": "4条攻略"
+      }
+    ]
+  }
+}

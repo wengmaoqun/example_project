@@ -1,0 +1,110 @@
+{
+  "ret": "true",
+  "data": {
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://img1.qunarzz.com/vs_ceph_b2c_001/11ad79bd-04ae-4145-bc04-b153c0515139.jpg_r_640x420x95_24eb4a8d.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://img1.qunarzz.com/vs_ceph_b2c_001/e3671dfc-ebcb-45b2-9e28-be52b717d893.jpg_r_640x420x95_16eeaa1b.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "iconName": "jingdianmenpiao",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0002",
+        "iconName": "iconfont icon-dongzhiwuyuan",
+        "desc": "动植物园"
+      },
+      {
+        "id": "0003",
+        "iconName": "iconfont icon-lvyou",
+        "desc": "旅游"
+      },
+      {
+        "id": "0004",
+        "iconName": "iconfont icon-packages",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0005",
+        "iconName": "iconfont iconfont icon-packages",
+        "desc": "一日游"
+      },
+      {
+        "id": "0006",
+        "iconName": "iconfont icon-weibiaoti--",
+        "desc": "游乐园"
+      },
+      {
+        "id": "0007",
+        "iconName": "iconfont iconfont icon-hua",
+        "desc": "团游"
+      },
+      {
+        "id": "0008",
+        "iconName": "iconfont icon-jingdianmenpiao",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0009",
+        "iconName": "iconfont icon-jingdianmenpiao",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0010",
+        "iconName": "iconfont icon-jianqu",
+        "des": "自然风光"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "0001",
+        "score": 4.7,
+        "commend": 980,
+        "price": "35",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts9/1804/a4/a3637aa752986802.jpg_r_390x260x95_186b48da.jpg",
+        "title": "白帝城",
+        "desc": "朝辞白帝彩云间，千里江陵一日还"
+      },
+      {
+        "id": "0001",
+        "score": 5.7,
+        "commend": 1853,
+        "price": "89",
+        "imgUrl": "https://imgs.qunarzz.com/vs_ceph_b2c_001/a8610fa3-6e58-40ca-a1c5-7954d9f33122.jpg_r_390x260x95_981100e0.jpg",
+        "title": "湘西",
+        "desc": "朝辞白帝彩云间，千里江陵一日还"
+      },
+      {
+        "id": "0001",
+        "score": 6.1,
+        "commend":561,
+        "price": "108",
+        "imgUrl": "https://imgs.qunarzz.com/vs_ceph_b2c_001/5128300a-86a5-4cb9-9c4c-299912e9f0c6.jpg_r_75x50x95_be756a29.jpg",
+        "title": "黄龙洞",
+        "desc": "朝辞白帝彩云间，千里江陵一日还"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "1000",
+        "imgUrl": "https://img1.qunarzz.com/vs_ceph_b2c_001/025538fe-77d1-44b3-8ee0-cee9d5409db4.jpg_r_640x420x95_b81d1caa.jpg",
+        "title": "长沙必打卡",
+        "desc": "到了长沙一定要去这些地方走走"
+      },
+      {
+        "id": "1001",
+        "imgUrl": "https://img1.qunarzz.com/vs_ceph_b2c_001/025538fe-77d1-44b3-8ee0-cee9d5409db4.jpg_r_640x420x95_b81d1caa.jpg",
+        "title": "长沙必打卡",
+        "desc": "到了长沙一定要去这些地方走走"
+      }
+    ]
+  }
+}
